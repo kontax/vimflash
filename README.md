@@ -6,9 +6,9 @@ wanted to finally learn rust.
 
 ## TODO
 
-[ ] Create project structure
-[ ] Customizable backend DB
-[ ] Use existing vim config for custom binds
-[ ] CI/CD
+- [ ] Create project structure
+- [ ] Customizable backend DB
+- [ ] Use existing vim config for custom binds
+- [ ] CI/CD
 
 
